@@ -1,2 +1,6 @@
 #Python temp:
 *.py~
+__pycache__/
+
+#gedit temp:
+.gitignore~
